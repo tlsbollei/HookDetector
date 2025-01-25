@@ -71,4 +71,5 @@ int main()
         checkFunctionHook(funcAddress, funcName);
     }
     return 0;
+    // Signed by Dvorniky
 }
