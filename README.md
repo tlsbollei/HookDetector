@@ -1,14 +1,12 @@
 
-
 ![screenshot](https://raw.githubusercontent.com/tlsbollei/HookDetector/refs/heads/main/dec/rabbit.gif)
 
+# Syscall Hook Detector
 &nbsp;
-
-
-
-
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
+![first-timers-only Friendly](https://img.shields.io/badge/made_in-dvorniky-blue)
+![first-timers-only Friendly](https://img.shields.io/badge/sponsored_by-PRINCIP-green)
 
 ## Introduction
 
