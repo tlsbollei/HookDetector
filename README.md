@@ -116,4 +116,4 @@ For those who understand concepts better visually - below is a graph of our plan
 > Telegram [boleii655](https://t.me/boleii655)
 
  <img src="https://raw.githubusercontent.com/tlsbollei/HookDetector/refs/heads/main/dec/me.png" alt="screenshot" width="200"/> 
- Y3J1c2hhbmRkZXN0cm95Cg==
+because knowledge is bittersweet
