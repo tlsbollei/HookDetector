@@ -110,10 +110,7 @@ For those who understand concepts better visually - below is a graph of our plan
 
 
 
-> GitHub [tlsbollei](https://github.com/tlsbollei) &nbsp;&middot;&nbsp;
-> Instagram [0fa102](https://www.instagram.com/0fa102/)
-> Discord [0fa](https://discord.com/channels/@me)
-> Telegram [boleii655](https://t.me/boleii655)
+
 
  <img src="https://raw.githubusercontent.com/tlsbollei/HookDetector/refs/heads/main/dec/me.png" alt="screenshot" width="200"/> 
 because knowledge is bittersweet
