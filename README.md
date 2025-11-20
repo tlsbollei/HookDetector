@@ -103,14 +103,3 @@ For those who understand concepts better visually - below is a graph of our plan
 * Hook Detection: Identifies functions with ```JMP``` or ```CALL``` instructions (common hooks) and reports their status, distinguishing between unhooked and modified functions.
 
 
-## You may also like...
-
-- [NTDLL.dll Unhooker](https://github.com/tlsbollei/NTDLL-Unhook) - A program written in C that unhooks the .txt section of the NTDLL.dll loaded in memory with the .text section of a clean copy on the disk, effectively removing any EDR-placed security hooks
-- [SHA-256 Crack](https://github.com/tlsbollei/sha256crack) - SHA256 cracking tool written in C++ utilizing 2 attack modes - a Dictionary attack and a Brute Force attack with a customizable charset and max length
-
-
-
-
-
- <img src="https://raw.githubusercontent.com/tlsbollei/HookDetector/refs/heads/main/dec/me.png" alt="screenshot" width="200"/> 
-because knowledge is bittersweet
